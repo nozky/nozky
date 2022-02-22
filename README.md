@@ -14,9 +14,9 @@
 
 ## **Connect with me:**
 
-[ ![facebook](assets/facebook.svg) Facebook ](https://www.facebook.com/norvillie.villaruel#gh-light-mode-only)
+[ ![facebook](assets/facebook.svg) Facebook ](https://www.facebook.com/norvillie.villaruel#gh-dark-mode-only)
 
-[![LinkedIn](assets/linkedin.svg) LinkedIn](https://www.linkedin.com/in/norvillie-villaruel/#gh-light-mode-only) 
+[![LinkedIn](assets/linkedin.svg) LinkedIn](https://www.linkedin.com/in/norvillie-villaruel/#gh-dark-mode-only) 
 ---
 
 ## **Languages and Tools**
