@@ -2,13 +2,13 @@
 
 # My name is Norvillie :v:
 
-## I am a Web Developer :sparkles:
+## I am a Web Developer :boom:
 
 <br>
 
 - :alien: I'm Currently bringing up my skills to advance level.
 - :sparkles: Looking forward to collaborate with anyone who is obsessively curious in coding the modern way! 
--  Interest in: Electronic, SOC'S, Iot's, Database Mangement, Ebikes, Photography, Videography, Operating Systems.
+-  :heart: Interest in: Electronic, SOC'S, Iot's, Database Mangement, Ebikes, Photography, Videography, Operating Systems.
 -  :drum: Fun fact: I love to play drums!
 
 ---
