@@ -24,7 +24,9 @@
 
 ---
 ## **Languages and Tools**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="26px" style="padding:5px"/> React.js 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="26px" alt="Typescript" style="padding:5px"/> Typescript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="26px" style="padding:5px"/> React.js
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="26px" style="background:white"/> Next.js
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain-wordmark.svg" alt="vue.js" width="26px" style="background:white"/> Vue.js
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="26px" alt="next.js" /> Nuxt.js
@@ -36,7 +38,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="26px" style="background:white" all="express.js"/> express.js
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="26px" alt="mongodb" /> Mongodb
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="26px" alt="graphQl"/> GraphQL
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="26px" style="padding:5px"/> tailwindcss
+          
 
 <br>
 <br>
