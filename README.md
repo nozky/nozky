@@ -6,7 +6,6 @@
 
 <br>
 
-- :alien: I'm Currently bringing up my skills to advance level.
 - :sparkles: Looking forward to collaborate with anyone who is obsessively curious in coding the modern way! 
 -  :heart: Interest in: Electronics, SOC'S, Iot's, Database Mangement, Ebikes, Photography, Videography, Operating Systems, Raspberry Pi's.
 -  :drum: Fun fact: I love to play drums!
