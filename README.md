@@ -2,13 +2,19 @@
 
 # My name is Norvillie :v:
 
-## I am a Web Developer :boom:
-
 <br>
 
-- :sparkles: Looking forward to collaborate with anyone who is obsessively curious in coding the modern way! 
--  :heart: Interest in: Electronics, SOC'S, Iot's, Database Mangement, Ebikes, Photography, Videography, Operating Systems, Raspberry Pi's.
--  :drum: Fun fact: I love to play drums!
+Hi there!
+
+I am a web developer with a strong focus on using React.js, Next.js, and Node.js to build powerful and scalable web applications. 
+
+I am always excited to learn new technologies and techniques, and I believe that staying up-to-date is crucial to being a successful developer.
+
+ With a background in computer science and a passion for creating intuitive and visually appealing user interfaces, I have the skills and knowledge necessary to turn your ideas into a reality. 
+ 
+ Whether it's a simple brochure website or a complex web application, I am confident in my ability to deliver high-quality results. 
+ 
+ If you have a project that requires a skilled and dedicated web developer who is eager to learn and grow, I would love to hear more about it!
 
 ---
 
