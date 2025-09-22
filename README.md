@@ -6,15 +6,13 @@
 
 Hi there!
 
-I am a web developer with a strong focus on using React.js, Next.js, and Node.js to build powerful and scalable web applications. 
+I’m an aspiring web developer with a growing focus on React.js, Next.js, and Node.js. While I’m just starting my professional journey, I’ve been building projects that show my ability to create clean, functional, and user-friendly websites.
 
-I am always excited to learn new technologies and techniques, and I believe that staying up-to-date is crucial to being a successful developer.
+What sets me apart is my eagerness to learn, adapt, and improve with every project. I believe that even as a beginner, my fresh perspective and dedication to delivering results can bring real value to your team or project.
 
- With a background in computer science and a passion for creating intuitive and visually appealing user interfaces, I have the skills and knowledge necessary to turn your ideas into a reality. 
- 
- Whether it's a simple brochure website or a complex web application, I am confident in my ability to deliver high-quality results. 
- 
- If you have a project that requires a skilled and dedicated web developer who is eager to learn and grow, I would love to hear more about it!
+I’m passionate about creating intuitive designs and building practical solutions that not only work but also provide a great experience for users. From simple websites to more dynamic applications, I’m ready to take on challenges and grow alongside the work I do.
+
+If you’re looking for someone who is motivated, quick to learn, and fully committed to delivering quality results, I’d love the opportunity to contribute to your project.
 
 ---
 
